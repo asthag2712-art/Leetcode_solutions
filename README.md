@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/asthag2712-art/Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/asthag2712-art/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/asthag2712-art/Leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/asthag2712-art/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0704-binary-search](https://github.com/asthag2712-art/Leetcode_solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/asthag2712-art/Leetcode_solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/asthag2712-art/Leetcode_solutions/tree/master/0066-plus-one) |
 ## Matrix
 |  |
 | ------- |
