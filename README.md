@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/asthag2712-art/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/asthag2712-art/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/asthag2712-art/Leetcode_solutions/tree/master/0066-plus-one) |
 ## Matrix
